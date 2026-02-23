@@ -50,7 +50,26 @@ Uber ride request dataset containing:
 
 &nbsp;• Drop Time
 
+##  Visualizations
 
+### Demand by Hour
+![Demand by Hour](images/demand_by_hour.png)
+
+### Status Distribution
+![Status Distribution](images/status_distribution.png)
+
+### Supply–Demand Heatmap
+![Heatmap](images/demand_heatmap.png)
+
+
+## 📁 Project Structure
+
+Uber-Supply-Demand-Analysis/
+│
+├── data/
+├── notebooks/
+├── images/
+└── README.md
 
 #### Key Insights
 
@@ -61,8 +80,14 @@ Uber ride request dataset containing:
 &nbsp;• Airport pickup had higher driver unavailability
 
 
-
 #### Business Impact
 
 • Improves ride fulfillment rate and reduces supply-demand gap.
+
+##  Skills Demonstrated
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Insight Extraction
+- Time-Based Analysis
 
